@@ -86,7 +86,7 @@ bcadi.com
 belvilla.com
 beobachter.ch
 beobachtertv.ch
-bg 
+bg
 bilanz-magazin.de
 bild.de
 blic.rs
@@ -158,7 +158,6 @@ il
 immergruen-medien.de
 immonet.de
 immowelt.de
-in
 intellitxt.com
 ioam.de
 ipp
