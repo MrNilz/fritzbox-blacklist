@@ -51,7 +51,6 @@ auto-swiat.pl
 auto-wirtschaft.ch
 auto.cz
 autobild.com.mx
-autobild.de
 autobild.es
 autobild.fi
 autobild.ge
@@ -155,8 +154,6 @@ ibusiness.de
 ikiosk.de
 il
 immergruen-medien.de
-immonet.de
-immowelt.de
 intellitxt.com
 ioam.de
 ipp
