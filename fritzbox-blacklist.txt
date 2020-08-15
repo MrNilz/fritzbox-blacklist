@@ -79,7 +79,6 @@ axelspringer.de
 axelspringer.hu
 axelspringer.pl
 azet.sk
-azurewebsites.net
 bams.de
 bcadi.com
 belvilla.com
@@ -93,7 +92,6 @@ blikk.hu
 bonial.com
 br
 bs
-buecher.de
 buysellads.com
 by
 bz-berlin.de
@@ -245,7 +243,6 @@ sportauto.fr
 sportbild.de
 sports.pl
 statcounter.com
-stepstone.de
 students.at
 students.ch
 students.de
@@ -270,14 +267,11 @@ tvrhet.hu
 tvstar.ch
 ua
 umzugsauktion.de
-us
 usgang.ch
 vc
 versicherungstarife-2017.net
 vn
 wams.de
-welt.de
-weltn24.de
 word19.com
 xplosion.de
 xyz
